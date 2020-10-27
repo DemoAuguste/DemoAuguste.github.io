@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/regiontrack
 excerpt:
 date: 2020-10-01
-venue: '2020 ACM/IEEE International Conference on Automation of Software Test (AST)'
+venue: 'ACM Transactions on Software Engineering and Methodology (TOSEM), accepted'
 paperurl: 'https://doi.org/10.1145/3387903.3389311'
 citation: 'X. Mei, Z. Wei, H. Zhang, and W.K. Chan, “BlockRace: A Big Data Approach to Dynamic Block-based Data Race Detection for Multithreaded Programs,” In Proceedings of ACM/IEEE International Conference on Automation of Software Test (AST), 2020, pp. 71-80.'
 ---
