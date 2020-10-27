@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ZHANG Hao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,7 +112,6 @@ author:
   twitter          :
   vine             :
   weibo            :
-  wechat           : "DemoAuguste"
   xing             :
   youtube          :
   wikipedia        :
