@@ -12,4 +12,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: H. Zhang and W.K. Chan, "Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models," In <i>Proc.<i> 34th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019, pp. 376-387.
