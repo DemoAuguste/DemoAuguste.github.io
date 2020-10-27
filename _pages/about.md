@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZHANG Hao's homepage"
+title: "ZHANG Hao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
