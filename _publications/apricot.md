@@ -1,7 +1,7 @@
 ---
 title: "Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/apricot
 excerpt:
 date: 2019-10-01
 venue: '2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)'
