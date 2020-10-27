@@ -12,3 +12,21 @@ I received the B.Eng and M.Sc degrees from Beihang University, China, in 2015 an
 
 Education
 ======
+* Ph.D in Computer Science, City University of Hong Kong, 2021 (expected)
+* M.S. in Control Science and Engineering, Beihang University, 2018
+* B.Eng in Quality and Reliability Engineering, Beihang University, 2015
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
