@@ -12,4 +12,4 @@ citation: 'H. Zhang and W.K. Chan, "Apricot: A Weight-Adaptation Approach to Fix
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: H. Zhang and W.K. Chan, "Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models," In <i>Proc.<i> 34th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019, pp. 376-387.
+<!-- Recommended citation: H. Zhang and W.K. Chan, "Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models," In <i>Proc.<i> 34th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019, pp. 376-387. -->
