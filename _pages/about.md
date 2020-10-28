@@ -16,6 +16,10 @@ Education
 * M.Sc in Control Science and Engineering, Beihang University, 2018
 * B.Eng in Quality and Reliability Engineering, Beihang University, 2015
 
+Research Interests
+======
+* Deep Neural Networks, Neural Network Testing and Debugging, Neural Network Optimization.
+
 
 Skills
 ======
